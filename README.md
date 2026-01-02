@@ -321,17 +321,3 @@ screen.py	Screens new data
 app.py	API for frontend
 5️⃣ What You Can Do Next
 
-I can:
-
-    Explain how to connect this to your Lovable app
-
-    Convert this to OpenAI / LLM-based screening
-
-    Add database + user login
-
-    Make it fairness-aware / bias-aware
-
-Just tell me 👍
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
